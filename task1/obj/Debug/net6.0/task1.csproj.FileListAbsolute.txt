@@ -1,0 +1,5 @@
+C:\Users\Админ\Desktop\Новая папка\Новая папка\task\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\Новая папка\Новая папка\task\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\Новая папка\Новая папка\task\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\Новая папка\Новая папка\task\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+C:\Users\Админ\Desktop\Новая папка\Новая папка\task\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
